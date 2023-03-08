@@ -8,6 +8,8 @@ Ditruyen1.txt : File contains coordinates of houses for rural case
 
 Ditruyen2.txt : File contains coordinates of houses for urban case
 
+Genetic Algorithm.pdf : Report for the problem
+
 #The 2 files contains data for chart 3 in the report:
 
 random_result.txt : File show datas of random algorithm test
